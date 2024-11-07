@@ -1,0 +1,5 @@
+Name: count, dtype: int64
+Silhouette Score: 0.16
+F1 Score: 0.16227380241422845
+Recall: 0.17621980104216012
+Precisão: 0.19985825644810612

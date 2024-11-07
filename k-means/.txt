@@ -1,0 +1,3 @@
+Acurácia: 0.00
+Recall: 0.00
+F1 Score: 0.00

@@ -1,0 +1,5 @@
+Name: count, dtype: int64
+Silhouette Score: -0.21
+Davies-Bouldin Score: 1.26
+Número de clusters identificados (incluindo ruído): 46
+Número de pontos identificados como ruído: 1362
