@@ -14,3 +14,7 @@ The Obesity Dataset is used to compare how each algorithm classifies obesity lev
 ## Usage
 
 Run `python main.py` to execute the experiments.
+
+## Author
+
+Matheus Bomtempo
