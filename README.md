@@ -10,3 +10,7 @@ Comparison of supervised and unsupervised learning algorithms on the Obesity Dat
 ## Dataset
 
 The Obesity Dataset is used to compare how each algorithm classifies obesity levels.
+
+## Usage
+
+Run `python main.py` to execute the experiments.
