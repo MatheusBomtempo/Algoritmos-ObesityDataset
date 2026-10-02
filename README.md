@@ -1,3 +1,8 @@
 # Algoritmos-ObesityDataset
 
 Comparison of supervised and unsupervised learning algorithms on the Obesity Dataset.
+
+## Contents
+
+- Supervised: KNN, SVM, decision tree (`arvore`), regression (`regressao`)
+- Unsupervised: K-Means, DBSCAN, hierarchical clustering (`hierarquico`)
